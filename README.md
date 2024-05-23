@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/e1f3413bf5036045713341394f617225.gif" alt="jahid-hasan-babu" />
 
+<img align="right" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/e1f3413bf5036045713341394f617225.gif" alt="jahid-hasan-babu" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid-hasan-babu&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-hasan-babu" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahid-hasan-babu" alt="jahid-hasan-babu" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/jahidhasan657" target="blank"><img src="https://img.shields.io/twitter/follow/jahidhasan657?logo=twitter&style=for-the-badge" alt="jahidhasan657" /></a> </p>
+
+- 🌱 I’m currently learning **NextJS,Prisma**
+
+- 💬 Ask me about **React Node**
+
+- 📫 How to reach me **jahidhasanbabu657@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1gRvmoae3ghrUXhlm_42kPtxrKkxmNLOaP-gml8hwnoA/edit?usp=sharing](https://docs.google.com/document/d/1gRvmoae3ghrUXhlm_42kPtxrKkxmNLOaP-gml8hwnoA/edit?usp=sharing)
 
 - ⚡ Fun fact **Call me Babu**
 
