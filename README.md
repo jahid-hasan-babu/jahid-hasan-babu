@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
-<img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalBMA4TshkPZR1kURqnXLgcIzhk9LNjbZiScrs04rCA&s)](https://previews.123rf.com/images/beatpavel/beatpavel1803/beatpavel180300006/97992262-javascript-coder-with-laptop.jpg)" alt="linux" width="400"/>
+<img align="right" width="400" src="[https://github-readme-stats.vercel.app/api/top-langs?username=jahid-hasan-babu&show_icons=true&locale=en&layout=compact](https://cdn.dribbble.com/users/5690231/screenshots/16191500/e1f3413bf5036045713341394f617225.gif)" alt="jahid-hasan-babu" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid-hasan-babu&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-hasan-babu" /> </p>
 
