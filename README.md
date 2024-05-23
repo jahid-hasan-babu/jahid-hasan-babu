@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jahidhasanbabu657@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gRvmoae3ghrUXhlm_42kPtxrKkxmNLOaP-gml8hwnoA/edit?usp=sharing](https://docs.google.com/document/d/1gRvmoae3ghrUXhlm_42kPtxrKkxmNLOaP-gml8hwnoA/edit?usp=sharing)
+
 - ⚡ Fun fact **Call me Babu**
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
