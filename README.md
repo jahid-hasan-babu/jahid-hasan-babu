@@ -1,20 +1,28 @@
-<h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jahid...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 
 <img align="right" width="500" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/e1f3413bf5036045713341394f617225.gif" alt="jahid-hasan-babu" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid-hasan-babu&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-hasan-babu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jahidhasan657" target="blank"><img src="https://img.shields.io/twitter/follow/jahidhasan657?logo=twitter&style=for-the-badge" alt="jahidhasan657" /></a> </p>
-
-- 🌱 I’m currently learning **NextJS,Prisma**
-
-- 💬 Ask me about **React Node**
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🌱 Trying to become an expert in Fullstack development ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🎯 2024 Goals: DevOps, AWS
+- ⚡ Fun Fact: I want to learn everything 🤣
 
 - 📫 How to reach me **jahidhasanbabu657@gmail.com**
 
 
-- ⚡ Fun fact **Call me Babu**
-- <h3 align="left">Connect with me:</h3>
+
+
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 <p align="left">
 <a href="https://twitter.com/jahidhasan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahidhasan657" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jahid-hasan-292347296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahid-hasan-292347296" height="30" width="40" /></a>
