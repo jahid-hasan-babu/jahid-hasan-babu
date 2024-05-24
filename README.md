@@ -4,6 +4,7 @@
   </a>
 </h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
+<img align="right" width="1000" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="jahid-hasan-babu" />
 
 <img align="right" width="500" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/e1f3413bf5036045713341394f617225.gif" alt="jahid-hasan-babu" />
 
