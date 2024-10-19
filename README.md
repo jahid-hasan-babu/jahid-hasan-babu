@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jahid...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
+<h3 align="center">A passionate Fullstack web developer from Bangladesh</h3>
 <img  src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" />
 
 <img align="right" width="500" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/e1f3413bf5036045713341394f617225.gif" alt="jahid-hasan-babu" />
