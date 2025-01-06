@@ -15,7 +15,7 @@
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🎯 2024 Goals: DevOps, AWS
+- 🎯 2025 Goals: DevOps, AWS
 - ⚡ Fun Fact: I want to learn everything 🤣
 
 - 📫 How to reach me [Portfolio](https://personal-portfolio-jahid-hasan.vercel.app)
