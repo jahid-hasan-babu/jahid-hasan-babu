@@ -18,7 +18,7 @@
 - 🎯 2026 Goals: Deep Dive into Core Enginnering
 - ⚡ Fun Fact: I want to learn everything 🤣
 
-- 📫 How to reach me [Portfolio](https://personal-portfolio-jahid-hasan.vercel.app)
+- 📫 How to reach me [Portfolio](https://jahid-hasan-babu.vercel.app)
 
 
 
