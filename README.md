@@ -25,11 +25,9 @@
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 <p align="left">
-<a href="https://twitter.com/jahidhasan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahidhasan657" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jahid-hasan-292347296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahid-hasan-292347296" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jahid.jahidhasanbabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jahid.jahidhasanbabu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jahid_babu_657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jahid_babu_657" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uc1sn7bsbgz62f-z4yzkjgna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1sn7bsbgz62f-z4yzkjgna" height="30" width="40" /></a>
 </p>
 
 
