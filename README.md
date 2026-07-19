@@ -8,7 +8,6 @@
 
 <img align="right" width="500" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/e1f3413bf5036045713341394f617225.gif" alt="jahid-hasan-babu" />
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahid-hasan-babu&label=Profile%20views&color=0e75b6&style=flat" alt="jahid-hasan-babu" /> </p>
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
