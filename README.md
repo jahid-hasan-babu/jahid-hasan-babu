@@ -20,7 +20,6 @@
 - 📫 How to reach me [Portfolio](https://www.devjahidhasan.com)
 
 
-
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 <p align="left">
 <a href="https://www.linkedin.com/in/jahid-hasan-292347296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jahid-hasan-292347296" height="30" width="40" /></a>
